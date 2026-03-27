@@ -3,7 +3,5 @@ def check_even_odd(num):
         return "Even"
     else:
         return "Odd"
-
-# test
 number = 10
 print(f"{number} is {check_even_odd(number)}")
